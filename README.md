@@ -1,5 +1,4 @@
-# INTRO TO GIT 
+This have been up to date 
 
-**This directory is not required, you can delete it if you don't want to use it.**
 
-Create and setup your Git and GitHub account
+This was updated on Github interface
